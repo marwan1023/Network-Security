@@ -1,0 +1,78 @@
+Unit 3 Question
+1/1 point (graded)
+What’s the most popular port scanning tool?
+*nmap
+netcat
+netstat
+nbtstat
+
+Unit 3 Question
+1/1 point (graded)
+After conducting a port scan, you could possibly be found in violation of:
+Sarbanes–Oxley
+Freedom of Information Act
+HIPAA
+*Computer Fraud and Abuse Act
+
+Unit 3 Question
+1/1 point (graded)
+Which order represents the sequence of the TCP Three Way Handshake?
+*SYN, SYN/ACK, ACK
+SYN, SYN, SYN/ACK
+ACK, SYN/ACK, SYN
+SYN, ACK, SYN/ACK
+
+Unit 3 Question
+0/1 point (graded)
+How does nmap respond to a SYN/ACK from a machine that it sent a SYN scan to?
+SYN
+SYN/ACK
+*RST
+No response
+
+Unit 3 Question
+1/1 point (graded)
+In the TCP Three Way Handshake, the sequence numbers are incremented by:
+0
+*1
+2
+The size of the payload
+
+Unit 3 Question
+1/1 point (graded)
+How does a closed port respond to a FIN scan?
+SYN
+SYN/ACK
+*RST
+No response
+
+Unit 3 Question
+1/1 point (graded)
+How do open ports respond to a SYN scan?
+SYN
+*SYN/ACK
+RST
+No response
+
+Unit 3 Question
+1/1 point (graded)
+Is port scanning legal?
+Yes
+No
+*There is no conclusive answer
+
+Unit 3 Question
+0/1 point (graded)
+Which of these are the possible classifications of a port from an ACK scan? (Each classification is separated by a comma)
+Open, filtered
+*Filtered, Unfiltered
+Open or filtered, closed
+Open, closed, filtered
+
+Unit 3 Question
+0/1 point (graded)
+Port scanning cannot reveal:
+Versions of programs
+State of ports
+*User accounts on a system
+Operating system version
