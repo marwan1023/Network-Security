@@ -1,0 +1,74 @@
+Unit 2 Question
+1/1 point (graded)
+Which of the following statements is true?
+*A rainbow table uses less processing and more storage than a brute force attack, but more processing and less storage than a dictionary attack.
+A rainbow table uses more processing and more storage than a brute force attack, and less processing and more storage than a dictionary attack.
+A rainbow table uses more processing and less storage than a brute force attack, but less processing and more storage than a dictionary attack.
+A rainbow table uses less processing and more storage than a brute force attack, and less processing and more storage than a dictionary attack.
+
+Unit 2 Question
+1/1 point (graded)
+True or False: Keystroke logging, phishing, and social engineering attacks work just as well on lengthy, complex passwords as they do on simple ones.
+*True
+False
+
+Unit 2 Question
+1/1 point (graded)
+Which of these statements about passwords and their corresponding hashes is true?
+Plaintext passwords are longer than hashes
+Hashes are less secure than plaintext passwords
+*Hashes are longer than plaintext passwords
+Hashes are always the same length as their corresponding plaintext passwords
+
+Unit 2 Question
+1/1 point (graded)
+How do dictionary attacks relate to brute force attacks?
+They operate at the same speed.
+Dictionary attacks are more of a guarantee than brute force attacks.
+*They both can use a wordlist file.
+Brute force attacks are quicker than dictionary attacks.
+
+Unit 2 Question
+1/1 point (graded)
+Which of these statements about rainbow tables and reduction functions is true?
+Rainbow tables use the same reduction function for every chain link.
+Rainbow tables can be constructed with or without reduction functions
+*Rainbow tables use a different reduction function for every chain link.
+Rainbow tables never use reduction functions.
+
+Unit 2 Question
+0/1 point (graded)
+True or False: NIST (The National Institute of Standards and Technology) now recommends changing passwords more frequently and using different character sets.
+True
+*False
+
+Unit 2 Question
+1/1 point (graded)
+In a rainbow table, a stolen password hash is initially compared to:
+The beginning part of a chain
+The middle part of a chain
+*The ending part of a chain
+
+Unit 2 Question
+1/1 point (graded)
+bcrypt and PBKDF2 are good cybersecurity alternatives to SHA-256 and SHA-512, because those functions are:
+*Slower
+Closed source
+Quicker
+Encrypted
+
+Unit 2 Question
+1/1 point (graded)
+When a hacker has a valid username and enters passwords at a login prompt (manually or through automation) to gain access to an account, it is called:
+Rainbow Table Attack
+Dictionary Attack
+*Password Guessing
+Brute Force Attack
+
+Unit 2 Question
+1/1 point (graded)
+In December 2016, Yahoo! announced that hackers stole details from over a billion user accounts, that had password information stored:
+Using SHA-256
+*Using MD5
+Using SHA-1
+In plaintext
