@@ -1,0 +1,78 @@
+Unit 4 Question
+1/1 point (graded)
+Weak passwords, buffer overflows, and susceptibility to SQL injection attacks are examples of:
+*Vulnerabilities
+Port scanning
+Threats
+Exploits
+
+Unit 4 Question
+1/1 point (graded)
+The actual code that allows hackers to control systems after they’ve been exploited is known as:
+Preamble
+*Payload
+Pentest
+Packet
+
+Unit 4 Question
+1/1 point (graded)
+Which of the following is not true regarding the NotPetya ransomware attack of June 2017?
+*The majority of infected systems were in the United States of America
+It originated from a Ukrainian tax preparation program
+It was originally believed to be a close variant of the Petya family of encrypting ransomware but later deemed very different
+Experts believe it really was a “wiper” masquerading as ransomware
+
+Unit 4 Question
+1/1 point (graded)
+Zero-day vulnerabilities are ______ by attackers.
+Reported
+Filtered
+Patched
+*Exploited
+
+Unit 4 Question
+1/1 point (graded)
+When a person participating in a bug bounty program reports a vulnerability to a company, the vulnerability is considered a __________ until the company releases a patch for it.
+buffer overflow
+gray hat
+*zero-day
+pentest
+
+Unit 4 Question
+0/1 point (graded)
+What is most unique about Offensive Security’s Exploit Database?
+*When possible, it includes the vulnerable software so the exploits can be tested
+It includes user submitted exploits
+It is used by both white hat hackers and black hat hackers
+It contains many exploits
+
+Unit 4 Question
+1/1 point (graded)
+The vulnerability that led to the WannaCry ransomware attack was discovered by _________, who didn’t report it to Microsoft, turning it into a zero-day vulnerability.
+*The National Security Agency (NSA) of the United States of America
+Hackers
+Pentesters
+Bug bounty participants
+
+Unit 4 Question
+1/1 point (graded)
+The WannaCry ransomware attack of May 2017 targeted _______ systems, by targeting the ______ protocol.
+Windows, SMTP
+macOS, SNMP
+*Windows, SMB
+Linux, SSH
+
+Unit 4 Question
+1/1 point (graded)
+Once a vulnerability is disclosed, the risk or probability of it being exploited:
+Increases
+Stays the same
+*Decreases
+
+Unit 4 Question
+1/1 point (graded)
+Which of these is a large database and framework of exploits and payloads?
+Tor
+HackerOne
+*Metasploit
+CSEC
