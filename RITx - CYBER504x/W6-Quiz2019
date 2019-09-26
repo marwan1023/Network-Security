@@ -1,0 +1,77 @@
+Unit 6 Question
+0/1 point (graded)
+True or false: The Snort Detection Engine uses predefined rules.
+*True
+False
+
+Unit 6 Question
+1/1 point (graded)
+Which of the following statements is true?
+An IDS and IPS are both out-of-band
+*An IPS is inline, while an IDS is out-of-band
+An IDS and IPS are both inline
+An IDS is inline, while an IPS is out-of-band
+
+Unit 6 Question
+1/1 point (graded)
+In a Snort rule, what does the symbol <> represent?
+Unidirectional traffic
+Boolean AND
+*Bidirectional traffic
+Boolean Not
+
+Unit 6 Question
+1/1 point (graded)
+Which of these is not a way that Snort can be connected to a switch?
+Port Mirroring
+Network Tap
+*Packet Filter
+SPAN
+
+Unit 6 Question
+1/1 point (graded)
+Snort can be used as:
+An IDS only
+An IPS only
+*Both an IDS and IPS
+Neither an IDS nor an IPS
+
+Unit 6 Question
+1/1 point (graded)
+Which of these is not a Snort mode?
+*SPAN
+Packet Logger
+Sniffer
+NIDS
+
+Unit 6 Question
+1/1 point (graded)
+The Snort decoder determines:
+Outcomes
+Functions
+*Protocols
+Rules
+
+Unit 6 Question
+1/1 point (graded)
+In Snort, if multiple rules match a packet, which one is used?
+The least restrictive one
+*The highest priority one
+The most restrictive one
+The first sequential one
+
+Unit 6 Question
+1/1 point (graded)
+Which Snort components follow actions by the Detection Engine?
+*Logging and Alert System and Output Modules
+Logging and Alert System and Decoder
+Output Modules and Preprocessors
+Decoder and Preprocessors
+
+Unit 6 Question
+1/1 point (graded)
+Snort preprocessors:
+Are used before the decoder
+Determine which protocols are used after packets go through the detection engine
+Can’t rearrange strings
+*Arrange and modify packets before sending them to the detection engine
